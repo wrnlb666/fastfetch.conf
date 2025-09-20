@@ -1,7 +1,8 @@
 # fastfetch.conf
 My fastfetch config file, meant to be used by myself. 
 
-## Installation
+# Installation
 ```sh
-curl -s https://raw.githubusercontent.com/wrnlb666/fastfetch.conf/refs/heads/main/config.jsonc --create-dirs -o ~/.config/fastfetch/config.jsonc
+git clone git@github.com:wrnlb666/fastfetch.conf.git
+(cd fastfetch && ./install.sh)
 ```
