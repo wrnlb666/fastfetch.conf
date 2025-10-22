@@ -15,7 +15,7 @@
     },
     {
       "type": "host",
-      "key": " PC",
+      "key": " PC ",
       "keyColor": "green",
       "format": "{name}"
     },
@@ -62,7 +62,7 @@
     },
     {
       "type": "os",
-      "key": " OS",
+      "key": " OS ",
       "keyColor": "blue"
     },
     {
